@@ -12,7 +12,8 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/bg.gif") top right no-repeat;
+  opacity: 0.7;
   background-size: cover;
   left: 0;
   right: 0;
@@ -204,6 +205,13 @@ h6 {
 
 .navbar li+li {
   margin-left: 30px;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  width: 70%;
 }
 
 .navbar a,
