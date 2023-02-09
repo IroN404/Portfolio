@@ -1,10 +1,3 @@
-/**
-* Template Name: Personal - v4.9.1
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1192,4 +1185,16 @@ section .container {
 
 .credits a:hover {
   color: #fff;
+}
+
+.hover {
+  transition: 1s;
+  /* grow */
+  -webkit-transform: scale(1.0);
+}
+.hover:hover {
+  background-color: rgba(112, 168, 111, 0.2);
+  transition: 1s;
+  /* grow */
+  -webkit-transform: scale(1.05);
 }
