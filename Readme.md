@@ -19,7 +19,7 @@ Take a moment to explore this portfolio and see the developer's capabilities for
 
 You can access the live website at the following URL:
 
-**https://www.gregory-maitre.fr**
+**https://gregory-maitre.fr**
 
 ## Technologies Used
 
